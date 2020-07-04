@@ -1,0 +1,35 @@
+WordPress Certified by Bitnami and Automattic
+Solution provided by Bitnami
+
+Site address
+http://34.106.200.60/ 
+Admin URL
+http://34.106.200.60/wp-admin/ 
+Admin user
+user
+Admin password (Temporary)
+qR2pRBn5MyrP
+Instance
+wordpress-1-vm
+Instance zone
+us-west3-c
+Instance machine type
+g1-small
+
+
+Software
+Operating System
+Debian (10)
+Software
+Ghostscript (9.05)
+Apache (2.4.43)
+ImageMagick (6.9.8)
+lego (3.7.0)
+MySQL (8.0.20)
+OpenSSL (1.1.1g)
+PHP (7.3.18)
+phpMyAdmin (5.0.2)
+SQLite (3.32.2)
+Varnish (6.0.6)
+WordPress (5.4.2)
+WP-CLI (2.4.1)
